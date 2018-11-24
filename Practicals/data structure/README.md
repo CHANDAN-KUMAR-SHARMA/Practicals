@@ -36,18 +36,18 @@
 
 **13.** WAP to calculate GCD of 2 number (i) with recursion (ii) without recursion
 
-**14.** WAP to create a Binary Search Tree and include following operations in tree: 
-  -()Insertion (Recursive and Iterative Implementation)
-  -b) Deletion by copying
-  -c) Deletion by Merging
-  -d) Search a no. in BST
-  -e) Display its preorder, postorder and inorder traversals Recursively  
-  -f) Display its preorder, postorder and inorder traversals Iteratively
-  -(g) Display its level-by-level traversals
-  -(h) Count the non-leaf nodes and leaf nodes
-  -(i) Display height of tree
-  -(j) Create a mirror image of tree
-  -(k) Check whether two BSTs are equal or not
+**14.** WAP to create a Binary Search Tree and include following operations in tree:
+   - (a)Insertion (Recursive and Iterative Implementation)
+   - (b) Deletion by copying
+   - (c) Deletion by Merging
+   - (d) Search a no. in BST
+   - (e) Display its preorder, postorder and inorder traversals Recursively  
+   - (f) Display its preorder, postorder and inorder traversals Iteratively
+   - (g) Display its level-by-level traversals
+   - (h) Count the non-leaf nodes and leaf nodes
+   - (i) Display height of tree
+   - (j) Create a mirror image of tree
+   - (k) Check whether two BSTs are equal or not
   
 **15.** WAP to convert the Sparse Matrix into non-zero form and vice-versa.
 
