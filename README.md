@@ -1,2 +1,2 @@
 # **Practicals**
-##  **Data Structure, Database, Operating System, and Computer Network**
+##  **Algorithms, Data Structure, Database, Operating System, and Computer Network**
