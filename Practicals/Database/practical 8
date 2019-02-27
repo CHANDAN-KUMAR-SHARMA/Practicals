@@ -1,0 +1,4 @@
+SELECT Ename , Dno
+FROM EMPLOYEE
+WHERE Dno = 10 AND Dno = 30
+ORDER BY Ename  ASC;

@@ -1,0 +1,3 @@
+SELECT Ename, Salary
+FROM EMPLOYEE
+WHERE Salary <> (BETWEEN $1500 AND $2850);

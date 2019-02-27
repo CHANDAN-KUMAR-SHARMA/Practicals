@@ -1,0 +1,4 @@
+SELECT DISTINCT Job_type
+FROM EMPLOYEE;
+
+-- This will return all unique Job_type in EMPLOYEE table

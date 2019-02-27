@@ -1,0 +1,3 @@
+SELECT Ename , Dno
+FROM EMPLOYEE
+WHERE Eno = 7900;

@@ -1,0 +1,4 @@
+SELECT  CONCAT(Ename," , ",Job_type ) AS Ename_W_JOB
+FROM EMPLOYEE;
+
+-- This will return EMPLOYEE name and Job_type in column, using " ," as separation

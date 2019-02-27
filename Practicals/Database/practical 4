@@ -1,0 +1,4 @@
+SELECT  CONCAT(Eno," , ", Ename," , ",Job_type," , ", Manager," , ", Hire_date ," , ", Dno, " , ", Commission," , ", Salary) AS THE_OUTPUT
+FROM EMPLOYEE;
+
+-- RETURN ALL THE ATTRIBUTES VALUE UNDER THE_OUTPUT ATTRIBUTES NAME 

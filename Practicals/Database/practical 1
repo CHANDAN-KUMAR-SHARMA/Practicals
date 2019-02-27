@@ -1,0 +1,4 @@
+SELECT Eno, Ename, Job_type, Hire_date
+FROM EMPLOYEE;
+
+-- This query will return EMPLOYEE number, EMPLOYEE NAME , Job_type , Hire_date
