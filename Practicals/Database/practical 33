@@ -1,0 +1,5 @@
+select Ename , Hire_date
+from EMPLOYEE
+WHERE Dno = ( SELECT Dno
+              from EMPLOYEE
+              WHERE Ename = 'Blake');

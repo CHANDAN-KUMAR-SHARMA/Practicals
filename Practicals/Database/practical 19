@@ -1,0 +1,3 @@
+  SELECT Eno , Ename , Salary , (Salary*3) AS  Dream_Salary
+  FROM EMPLOYEE;
+  

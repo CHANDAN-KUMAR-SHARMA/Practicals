@@ -1,0 +1,3 @@
+SELECT Ename , Salary , Hire_date
+FROM EMPLOYEE
+WHERE

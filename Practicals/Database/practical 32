@@ -1,0 +1,3 @@
+SELECT Dno, Dname , Location , COUNT ( ENO) AS num_of_emp
+FROM EMPLOYEE NATURAL JOIN DEPARTMENT
+GROUP BY Dno;

@@ -1,0 +1,2 @@
+select  MAX(Salary) AS maximum_salary , MIN(Salary) AS minimum_salary  , SUM(Salary) AS salary_sum , AVG(Salary) AS avg_salary
+FROM EMPLOYEE;

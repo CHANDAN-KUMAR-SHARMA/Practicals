@@ -1,0 +1,3 @@
+select Ename, Dname
+FROM EMPLOYEE NATURAL JOIN DEPARTMENT
+WHERE Ename LIKE '%A%';

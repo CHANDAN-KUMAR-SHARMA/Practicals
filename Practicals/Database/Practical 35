@@ -1,0 +1,5 @@
+SELECT Eno , Ename
+FROM EMPLOYEE
+WHERE Dno IN ( select Dno
+               FROM EMPLOYEE
+               WHERE Ename LIKE '%T%');

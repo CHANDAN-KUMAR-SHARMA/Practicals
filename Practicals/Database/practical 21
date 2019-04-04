@@ -1,0 +1,2 @@
+SELECT Ename, Hire_date , DAYOFWEEK(Hire_date) AS starting_week
+FROM EMPLOYEE;

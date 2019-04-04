@@ -1,0 +1,3 @@
+SELECT CONCAT( UCASE(LEFT(Ename ,1 ) ), LCASE(SUBSTRING(Ename,2) ) ) AS Capitalize_name , LENGTH( Ename) AS name_length
+FROM EMPLOYEE
+WHERE Ename LIKE 'J%' OR 'A%' OR 'M%';

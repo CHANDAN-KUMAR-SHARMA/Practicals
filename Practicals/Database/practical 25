@@ -1,0 +1,3 @@
+select Ename , Job_type , Dno , Dname
+from EMPLOYEE NATURAL JOIN DEPARTMENT
+WHERE Location = 'Dallas';

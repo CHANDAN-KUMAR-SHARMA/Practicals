@@ -1,0 +1,3 @@
+select Dno , Ename , Job_type
+FROM EMPLOYEE NATURAL JOIN DEPARTMENT
+WHERE Dname = 'Sales';

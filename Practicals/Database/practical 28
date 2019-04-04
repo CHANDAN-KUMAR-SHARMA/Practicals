@@ -1,0 +1,2 @@
+select Ename , REPEAT("*" , Salary/100) AS Salary
+FROM EMPLOYEE;

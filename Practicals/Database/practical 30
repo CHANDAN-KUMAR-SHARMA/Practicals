@@ -1,0 +1,3 @@
+SELECT COUNT( Ename) AS num_of_emp , Job_type
+FROM  EMPLOYEE;
+GROUP BY Job_type;
