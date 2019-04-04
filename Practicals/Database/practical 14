@@ -1,0 +1,4 @@
+SELECT Ename
+FROM EMPLOYEE
+WHERE ( Ename LIKE '%A%A%' OR Ename LIKE '%R%R%' ) AND (Dno = 30 OR Manager = 7788);
+ 

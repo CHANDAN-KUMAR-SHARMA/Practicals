@@ -1,0 +1,3 @@
+SELECT Ename , Salary, Commission
+FROM EMPLOYEE
+WHERE Commission IS NOT NULL;

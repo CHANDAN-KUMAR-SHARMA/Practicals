@@ -1,0 +1,3 @@
+SELECT Ename , Job_type
+FROM EMPLOYEE
+WHERE Manager IS NULL;
