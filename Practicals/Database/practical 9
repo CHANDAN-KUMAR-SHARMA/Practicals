@@ -1,3 +1,3 @@
 SELECT Ename , Hire_date
 FROM EMPLOYEE
-WHERE Hire_date = 1981;
+WHERE Hire_date = '1981%';
